@@ -18,11 +18,6 @@ Hi! My name is Emirhan Yildiz, I am currently a student studying computer scienc
 ---
 [![](https://visitcount.itsvg.in/api?id=Bashmaistro&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-![snake gif](https://github.com/Bashmaistro/Bashmaistro/blob/output/github-contribution-grid-snake.svg)
 
 
 
