@@ -22,7 +22,7 @@ Hi! My name is Emirhan Yildiz, I am currently a student studying computer scienc
 
 
 
-![snake gif](https://github.com/your_github_name/your_github_name/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Bashmaistro/Bashmaistro/blob/output/github-contribution-grid-snake.svg)
 
 
 
