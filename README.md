@@ -22,8 +22,7 @@ Hi! My name is Emirhan Yildiz, I am currently a student studying computer scienc
 
 
 
-<img src="https://raw.githubusercontent.com/Bashmaistro/Bashmaistro/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/your_github_name/your_github_name/blob/output/github-contribution-grid-snake.svg)
 
 
 
